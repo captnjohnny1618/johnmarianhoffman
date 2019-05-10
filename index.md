@@ -22,17 +22,21 @@ All of the information about me
 - B.S. Physics, Virginia Tech, Blacksburg, BA (2011)
 
 ## Publications
-- (In preparation) Hoffman, J., Kim, G., Young, S., McNitt-Gray, M. (2018). **Evaluating the Effects of a Range of Acquisition and Reconstruction Parameters on a Quantitative CT Imaging Task: Application of the Pipeline to Evaluate Quantitative Measures of Emphysema in a Large Lung Screening Cohort.**
+- (In preparation) Hsieh, S., Hoffman, J., Noo, F. **Accelerating iterative coordinate descent using a stored system matrix** (2019).
 
-- (Submitted, Under Review, Medical Physics July 2018) Hoffman, J., Kim, G., Young, S., McNitt-Gray, M. (2018). **Technical Note: Design and Implementation of a High Throughput Pipeline for Reconstruction and Quantitative Analysis of CT Image Data".**
+- (In preparation) Hoffman, J., Kim, G., Young, S., McNitt-Gray, M. **Evaluating the Effects of a Range of Acquisition and Reconstruction Parameters on a Quantitative CT Imaging Task: Application of the Pipeline to Evaluate Quantitative Measures of Emphysema in a Large Lung Screening Cohort.** (2019).
 
-- ([link](https://www.ncbi.nlm.nih.gov/pubmed/29858509)) Hoffman, J. , Noo, F.1, Young, S.1, Hsieh, S., McNitt-Gray, M. (2017). **Technical Note: FreeCT_ICD: An Open Source Implementation of a Model-Based Iterative Reconstruction Method Using Coordinate-Descent Optimization for CT Imaging Investigations.**
+- ([link](https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.13401?af=R)) Hoffman, J., Kim, G., Young, S., McNitt-Gray, M. **Technical Note: Design and Implementation of a High Throughput Pipeline for Reconstruction and Quantitative Analysis of CT Image Data".** Medical Physics, 46(5), 2310-2322 (2019).
+
+- ([link](https://aapm.onlinelibrary.wiley.com/doi/full/10.1002/mp.13252)) Zhao, T., Hoffman, J., McNitt-Gray, M., Ruan, D. **Ultra-low-dose CT image denoising using modified BM3D scheme tailored to data statistics.** Medical Physics, 46(1), 190-198 (2018).
+
+- ([link](https://www.ncbi.nlm.nih.gov/pubmed/29858509)) Hoffman, J. , Noo, F.1, Young, S.1, Hsieh, S., McNitt-Gray, M. **Technical Note: FreeCT_ICD: An Open Source Implementation of a Model-Based Iterative Reconstruction Method Using Coordinate-Descent Optimization for CT Imaging Investigations.** Medical Physics, 45(8), 3591-3603, (2018)
 
 - ([link](https://www.ncbi.nlm.nih.gov/pubmed/29080274)) T. Martin, J. Hoffman, J.R. Alger, M. Mcnitt-Gray, and D.J. Wang, **Low-dose CT perfusion with projection view sharing.** Medical Physics, 45(1), 101–113 (2017). 
 
-- ([link](https://www.ncbi.nlm.nih.gov/pubmed/28122122)) Young, S., Lo, P., Kim, G., Brown, M., Hoffman, J., Hsu, W., … McNitt-Gray, M. (2017). **The Effect of Radiation Dose Reduction on Computer-Aided Detection (CAD) Performance in a Low-Dose Lung Cancer Screening Population.** Medical Physics, 44(4), 1337–1346. 
+- ([link](https://www.ncbi.nlm.nih.gov/pubmed/28122122)) Young, S., Lo, P., Kim, G., Brown, M., Hoffman, J., Hsu, W., … McNitt-Gray, M. **The Effect of Radiation Dose Reduction on Computer-Aided Detection (CAD) Performance in a Low-Dose Lung Cancer Screening Population.** Medical Physics, 44(4), 1337–1346, (2017).
 
-- ([link](https://www.ncbi.nlm.nih.gov/pubmed/26936725)) Hoffman, J., Young, S., Noo, F., & McNitt-Gray, M. (2016). **Technical Note: FreeCT_wFBP: A Robust, Efficient, Open-Source Implementation of Weighted Filtered Backprojection for Helical, Fan-Beam CT.** Medical Physics, 43, 10 pp. 
+- ([link](https://www.ncbi.nlm.nih.gov/pubmed/26936725)) Hoffman, J., Young, S., Noo, F., & McNitt-Gray, M. **Technical Note: FreeCT_wFBP: A Robust, Efficient, Open-Source Implementation of Weighted Filtered Backprojection for Helical, Fan-Beam CT.** Medical Physics, 43, 10 pp., (2016). 
 
 ## Presentations
 
