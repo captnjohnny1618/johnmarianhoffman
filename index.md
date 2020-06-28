@@ -1,10 +1,14 @@
 
 <h1 style="text-align: center;"> John Hoffman </h1>
+
+<!-- ![alt text](data/profile_photo.png) -->
+
 <p style="text-align: center;">
+<img src="data/profile_photo.png" alt="alt text" /><br>
 Computer Vision Engineer, 3D Reconstruction<br>
 Magic Leap
 </p>
-![alt text](data/profile_photo.png)
+
 
 ## About
 All of the information about me
