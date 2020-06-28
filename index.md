@@ -1,19 +1,17 @@
 
 <h1 style="text-align: center;"> John Hoffman </h1>
 <p style="text-align: center;">
-<img src="data/img_6717.png" alt="Portrait" width="300px"/>
-<br>
-Postdoctoral Researcher<br>
-UCLA Radiology
+Computer Vision Engineer, 3D Reconstruction<br>
+Magic Leap
 </p>
-[//]: # ![alt text](data/my_photo.png "Portrait")
+![alt text](data/my_photo.png "Portrait")
 
 
 ## About
 All of the information about me
 
 ## Websites
-- [https://github.com/captnjohnny1618/](https://github.com/captnjohnny1618/)
+- [https://github.com/johnmarianhoffman/](https://github.com/johnmarianhoffman/)
 - [https://github.com/freect](https://github.com/freect)
 
 ## Academic studies
