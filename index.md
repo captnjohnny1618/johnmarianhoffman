@@ -4,7 +4,7 @@
 Computer Vision Engineer, 3D Reconstruction<br>
 Magic Leap
 </p>
-![alt text](data/profile_photo.png "Portrait")
+![alt text](data/profile_photo.png)
 
 ## About
 All of the information about me
