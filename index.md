@@ -5,13 +5,10 @@
 
 <p style="text-align: center;">
 <img src="data/profile_photo.png" alt="alt text" /><br>
-Computer Vision Engineer, 3D Reconstruction<br>
-Magic Leap
 </p>
 
 
 ## About
-All of the information about me
 
 ## Websites
 - [https://github.com/johnmarianhoffman/](https://github.com/johnmarianhoffman/)
@@ -22,10 +19,25 @@ All of the information about me
 - B.S. Mathematics, Virginia Tech, Blacksburg, BA (2011)
 - B.S. Physics, Virginia Tech, Blacksburg, BA (2011)
 
-## Publications
-- (In preparation) Hsieh, S., Hoffman, J., Noo, F. **Accelerating iterative coordinate descent using a stored system matrix** (2019).
+## Experience
+- Computer Vision Engineer focusing on 3D Reconstruction, *Magic Leap*, December 2018 - Present
+    - Specialized in improving robustness of segmentation algorithms for multi-view surface capture
+    - Developed a surface registration pipeline based on deformation graphs to temporally register surfaces for compression of 3D data
+    - Implemented sophisticated texture atlassing software for mapping 3D surfaces into 2D
+- Independent Contractor, *iTomography*, December 2017 - May 2019
+    - Concentrated on GPU acceleration of CT reconstruction software 
+- Post-Doctoral Researcher, *UCLA Radiology*, April 2018 - October 2018
+- Graduate Student Researcher, *UCLA Biomedical Physics Interdepartmental Program*, June 2011 - March 2018
+- Imaging Scientist, *Toshiba Medical Research USA, Inc.*, October 2016 - December 2017
 
-- (In preparation) Hoffman, J., Kim, G., Young, S., McNitt-Gray, M. **Evaluating the Effects of a Range of Acquisition and Reconstruction Parameters on a Quantitative CT Imaging Task: Application of the Pipeline to Evaluate Quantitative Measures of Emphysema in a Large Lung Screening Cohort.** (2019).
+## Research Interests
+My research interests include 3D image and surface reconstruction, quantitative imaging and computer vision, and computational geometry.  Additionally, I aim to incorporate automation, high-performance, and parallel computing into my research workflows to accelerate the amount of data we are able to consider and generate. 
+
+## Publications
+
+- (In preparation) Hoffman, J., Kim, G., Young, S., McNitt-Gray, M. **Evaluating the Effects of a Range of Acquisition and Reconstruction Parameters on a Quantitative CT Imaging Task: Application of the Pipeline to Evaluate Quantitative Measures of Emphysema in a Large Lung Screening Cohort.** (2020).
+
+- ([link](https://aapm.onlinelibrary.wiley.com/doi/10.1002/mp.13543)) Hsieh, Scott S., Hoffman, John M., Noo, F. **Accelerating Iterative Coordinate Descent Using a Stored System Matrix.** Medical Physics 46(12), e801-e809  (2019).
 
 - ([link](https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.13401?af=R)) Hoffman, J., Kim, G., Young, S., McNitt-Gray, M. **Technical Note: Design and Implementation of a High Throughput Pipeline for Reconstruction and Quantitative Analysis of CT Image Data".** Medical Physics, 46(5), 2310-2322 (2019).
 
